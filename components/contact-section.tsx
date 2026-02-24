@@ -25,7 +25,7 @@ export function ContactSection() {
               <Phone className="h-6 w-6 text-primary" />
             </div>
             <h3 className="mb-1 font-bold text-card-foreground">Phone</h3>
-            <p className="text-sm text-muted-foreground">9398092392</p>
+            <p className="text-sm text-muted-foreground">7993148967</p>
             <p className="text-sm text-muted-foreground">{SECONDARY_NUMBER}</p>
           </div>
 

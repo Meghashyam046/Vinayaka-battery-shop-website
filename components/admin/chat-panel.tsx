@@ -56,7 +56,7 @@ const sampleChats = [
       { from: "customer", text: "3", time: "2:01 PM" },
       {
         from: "bot",
-        text: "You can reach the owner at:\nPhone: 9398092392\nWhatsApp: wa.me/919398092392",
+        text: "You can reach the owner at:\nPhone: 7993148967\nWhatsApp: wa.me/917993148967",
         time: "2:01 PM",
       },
     ],

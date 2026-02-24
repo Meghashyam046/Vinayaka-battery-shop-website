@@ -8,7 +8,7 @@ export interface Product {
   specs: string[]
 }
 
-export const WHATSAPP_NUMBER = "919398092392"
+export const WHATSAPP_NUMBER = "917993148967"
 export const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}`
 export const SECONDARY_NUMBER = "9032532392"
 export const BUSINESS_NAME = "Sri Vinayaka Enterprises"
