@@ -5,7 +5,7 @@ import './globals.css'
 
 const _inter = Inter({
   subsets: ["latin"],
-  variable: "--font-inter",
+  variable: "--font-inter", 
 })
 
 const _playfair = Playfair_Display({
