@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils'
 
 function Tabs({
   className,
-  ...props
+  ...props 
 }: React.ComponentProps<typeof TabsPrimitive.Root>) {
   return (
     <TabsPrimitive.Root
