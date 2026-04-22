@@ -5,7 +5,7 @@ import { MessageCircle, X, Send, Store, User, ShoppingCart } from "lucide-react"
 import { WHATSAPP_LINK, BUSINESS_NAME, categories, products, getWhatsAppOrderLink } from "@/lib/products"
 
 type Message = {
-  from: "bot" | "customer"
+  from: "bot" | "customer" 
   text: string
   time: string
   buttons?: { label: string; value: string }[]
