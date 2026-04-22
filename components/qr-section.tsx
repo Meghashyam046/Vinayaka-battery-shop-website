@@ -8,7 +8,7 @@ export function QrSection() {
   const canvasRef = useRef<HTMLCanvasElement>(null)
 
   useEffect(() => {
-    if (canvasRef.current) {
+    if (canvasRef.current) { 
       QRCode.toCanvas(canvasRef.current, WHATSAPP_LINK, {
         width: 200,
         margin: 2,
