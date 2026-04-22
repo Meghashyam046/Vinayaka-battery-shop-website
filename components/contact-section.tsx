@@ -8,7 +8,7 @@ export function ContactSection() {
     <section id="contact" className="bg-background py-16 lg:py-24">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         <div className="mb-12 text-center">
-          <span className="mb-2 inline-block text-sm font-semibold uppercase tracking-wider text-primary">
+          <span className="mb-2 inline-block text-sm font-semibold uppercase tracking-wider text-primary"> 
             Get In Touch
           </span>
           <h2 className="font-serif text-3xl font-bold tracking-tight text-foreground lg:text-4xl">
