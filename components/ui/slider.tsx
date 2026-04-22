@@ -8,7 +8,7 @@ import { cn } from '@/lib/utils'
 function Slider({
   className,
   defaultValue,
-  value,
+  value, 
   min = 0,
   max = 100,
   ...props
