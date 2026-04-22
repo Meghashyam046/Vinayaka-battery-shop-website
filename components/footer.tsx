@@ -5,7 +5,7 @@ export function Footer() {
   return (
     <footer className="bg-foreground py-10 text-background">
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
-        <div className="flex flex-col items-center gap-4 text-center">
+        <div className="flex flex-col items-center gap-4 text-center"> 
           <div className="flex items-center gap-2">
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <Zap className="h-4 w-4 text-primary-foreground" />
