@@ -5,7 +5,7 @@ import { Phone, ShieldCheck, Truck, Award } from "lucide-react"
 import { WHATSAPP_LINK, BUSINESS_NAME } from "@/lib/products"
 
 export function HeroSection() {
-  return (
+  return ( 
     <section id="home" className="relative overflow-hidden">
       <div className="absolute inset-0">
         <Image
