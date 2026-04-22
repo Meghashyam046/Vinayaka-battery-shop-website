@@ -3,7 +3,7 @@
 import { useState } from "react"
 import Image from "next/image"
 import { Phone, ShieldCheck, Tag } from "lucide-react"
-import { products, categories, getWhatsAppOrderLink } from "@/lib/products"
+import { products, categories, getWhatsAppOrderLink } from "@/lib/products" 
 
 export function ProductSection() {
   const [activeCategory, setActiveCategory] = useState("all")
