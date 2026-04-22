@@ -6,7 +6,7 @@ export interface Product {
   warranty: string
   image: string
   specs: string[]
-}
+} 
 
 export const WHATSAPP_NUMBER = "917993148967"
 export const WHATSAPP_LINK = `https://wa.me/${WHATSAPP_NUMBER}`
