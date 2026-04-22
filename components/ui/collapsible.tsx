@@ -9,7 +9,7 @@ function Collapsible({
 }
 
 function CollapsibleTrigger({
-  ...props
+  ...props 
 }: React.ComponentProps<typeof CollapsiblePrimitive.CollapsibleTrigger>) {
   return (
     <CollapsiblePrimitive.CollapsibleTrigger
