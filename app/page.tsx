@@ -5,7 +5,7 @@ import { ProductSection } from "@/components/product-section"
 import { QrSection } from "@/components/qr-section"
 import { ContactSection } from "@/components/contact-section"
 import { Footer } from "@/components/footer"
-import { WhatsAppFab } from "@/components/whatsapp-fab"
+import { WhatsAppFab } from "@/components/whatsapp-fab" 
 
 export default function Home() {
   return (
