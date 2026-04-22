@@ -6,7 +6,7 @@ import { categories } from "@/lib/products"
 
 export function CategorySection() {
   return (
-    <section id="categories" className="bg-background py-16 lg:py-24">
+    <section id="categories" className="bg-background py-16 lg:py-24"> 
       <div className="mx-auto max-w-7xl px-4 lg:px-8">
         <div className="mb-12 text-center">
           <span className="mb-2 inline-block text-sm font-semibold uppercase tracking-wider text-primary">
